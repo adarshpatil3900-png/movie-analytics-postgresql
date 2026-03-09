@@ -1,15 +1,30 @@
-Movie Analytics Database
+# Movie Analytics PostgreSQL Project
 
-This project is a PostgreSQL database designed to analyze movie data.
+This project is a relational database built using PostgreSQL to analyze movie data such as budget, box office collections, directors, and release years.
 
-Tables:
-- movies
-- directors
-- actors
-- movie_cast
-- ratings
+## Features
 
-Features:
-- relational schema
-- SQL joins
-- movie analytics queries
+- Relational schema with multiple tables
+- Foreign key relationships
+- Movie budget and box office tracking
+- SQL queries for analytics
+
+## Tables
+
+Movies  
+Directors  
+Actors  
+Movie_Cast
+
+## Example Queries
+
+- Top grossing movies
+- Movies by a specific director
+- Budget vs box office comparison
+
+## Technologies Used
+
+PostgreSQL  
+SQL  
+Git  
+GitHub
